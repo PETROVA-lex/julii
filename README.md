@@ -2,15 +2,6 @@
 
 # Lugares — Página interactiva
 
-Página web interactiva que permite seleccionar lugares (Plazas, Pool, Centro) y enviar un mensaje a WhatsApp predefinido al hacer clic en un botón. Incluye un botón “Tocame” con animación de crecimiento y efecto final.
-
-> ⚠️ **Aviso:** el proyecto contiene un mensaje de ejemplo que puede ser violento. Mantenerlo solo si lo usas de forma local y privada.
-
-## Vista previa
-Abre `index.html` en tu navegador para probar la página.
-
-## Estructura de archivos
-
         font-size: 1.5em;
         padding: 10px 20px;
         margin: 10px;
