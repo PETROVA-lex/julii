@@ -1,29 +1,16 @@
 # julii
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lugares</title>
-    <link rel="stylesheet" href="styles.css">
- <style>
-    body {
-        background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZ2YnB6cGx3b3FkcjNtcXJmNTVvaXRqZTd6YWo1OGhlNXcyZjgxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26wkGyLXBYFuwnE6A/giphy.gif);
-        background-size: cover;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        text-align: center;
-        padding: 100px;
-    }
-    img {
-        width:100px;
-        padding:10px;
-        border-radius: 15px;
-    }
-    button {
-        background-color: #ce84ad;
-        color: #020001;
-        border: 4px solid #81597c;
-        font-family: Georgia, 'Times New Roman', Times, serif;
+
+# Lugares — Página interactiva
+
+Página web interactiva que permite seleccionar lugares (Plazas, Pool, Centro) y enviar un mensaje a WhatsApp predefinido al hacer clic en un botón. Incluye un botón “Tocame” con animación de crecimiento y efecto final.
+
+> ⚠️ **Aviso:** el proyecto contiene un mensaje de ejemplo que puede ser violento. Mantenerlo solo si lo usas de forma local y privada.
+
+## Vista previa
+Abre `index.html` en tu navegador para probar la página.
+
+## Estructura de archivos
+
         font-size: 1.5em;
         padding: 10px 20px;
         margin: 10px;
