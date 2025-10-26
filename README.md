@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="es"> 
-<head>
-    <title>Juliii Page</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
- <style>
-    body {
-        background-image: url("https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWI5a2h2b3F6ZjU1Zm1pNG1rb3Y4cmtqM2QwMTV5bGttMHdwbTN3MyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/10UxPlqdpWynwQ/giphy.gif");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 100%;
-        height: 100vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        font-family: 'Times New Roman', Times, serif;
-    }
-
 
     
     h1 {
